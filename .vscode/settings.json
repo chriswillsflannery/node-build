@@ -4,7 +4,7 @@
     "**/.git/subtree-cache/**": true,
   },
   "triggerTaskOnSave.tasks": {
-    "restart web": [
+    "restart backend": [
       "src/**/*"
     ]
   },
